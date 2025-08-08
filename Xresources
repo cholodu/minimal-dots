@@ -1,0 +1,15 @@
+xterm*background:	white
+xterm*foreground:	black
+xterm*color1: rgb:fb/49/34
+xterm*color2: rgb:98/97/1a
+xterm*color3: rgb:fa/bd/2f
+xterm*color4: rgb:83/a5/98
+xterm*color5: rgb:d3/86/9b
+xterm*color6: rgb:83/c8/7c
+
+xterm*color9: rgb:fb/49/34
+xterm*color10: rgb:98/97/1a
+xterm*color11: rgb:fa/bd/2f
+xterm*color12: rgb:83/a5/98
+xterm*color13: rgb:d3/86/9b
+xterm*color14: rgb:83/c8/7c
